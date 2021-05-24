@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F1054B7265C54730047D57E /* ColorsAndFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1054B6265C54730047D57E /* ColorsAndFont.swift */; };
 		E4F63FDF265B51F1004E9835 /* ImagesFontsColors_01App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F63FDE265B51F1004E9835 /* ImagesFontsColors_01App.swift */; };
 		E4F63FE1265B51F1004E9835 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F63FE0265B51F1004E9835 /* ContentView.swift */; };
 		E4F63FE3265B51F2004E9835 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4F63FE2265B51F2004E9835 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F1054B6265C54730047D57E /* ColorsAndFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsAndFont.swift; sourceTree = "<group>"; };
 		E4F63FDB265B51F1004E9835 /* ImagesFontsColors-01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ImagesFontsColors-01.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4F63FDE265B51F1004E9835 /* ImagesFontsColors_01App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesFontsColors_01App.swift; sourceTree = "<group>"; };
 		E4F63FE0265B51F1004E9835 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				E4F63FE2265B51F2004E9835 /* Assets.xcassets */,
 				E4F63FE7265B51F2004E9835 /* Info.plist */,
 				E4F63FE4265B51F2004E9835 /* Preview Content */,
+				5F1054B6265C54730047D57E /* ColorsAndFont.swift */,
 			);
 			path = "ImagesFontsColors-01";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4F63FE1265B51F1004E9835 /* ContentView.swift in Sources */,
+				5F1054B7265C54730047D57E /* ColorsAndFont.swift in Sources */,
 				E4F63FDF265B51F1004E9835 /* ImagesFontsColors_01App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
